@@ -1,0 +1,23 @@
+.image {
+  width: 317px;
+  height: 317px;
+}
+
+.info{
+  text-align:center;
+}
+.about{
+  text-align: center;
+}
+
+.about_section{
+  text-align: center;
+  overflow-wrap: break-word;
+}
+.interests{
+  text-align:center;
+}
+
+.interests_section{
+  text-align:center;
+}
