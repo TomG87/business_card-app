@@ -6,10 +6,12 @@ export default function Info() {
     <div className="info">
       <img src={picture} className="image" />
       <h2>Tom Gagliano II</h2>
-      <h4>Full Stack Engineer</h4>
+      <h3 className="title">Full Stack Engineer</h3>
       <br></br>
-      <button>Email</button>
-      <button>LinkedIn</button>
+      <div className="buttons">
+        <button>Email</button>
+        <button>LinkedIn</button>
+      </div>
     </div>
   );
 }
